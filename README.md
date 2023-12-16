@@ -10,9 +10,6 @@ Welcome to the Library Management System project! This system is designed to eff
 - **Borrowing and Returning:** Streamlined process for checking out and returning books.
 
 ## Technologies Used
-- [Your Tech Stack and Frameworks]
+- C++ ;
 
-## Getting Started
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+
